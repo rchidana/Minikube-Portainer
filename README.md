@@ -7,7 +7,7 @@ helm version
 
 helm repo add portainer https://portainer.github.io/k8s/
 helm repo update
-helm repo search portainer
+helm search repo portainer
 
 # Create a namespace for portainer
 kubectl create namespace portainer
