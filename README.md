@@ -26,3 +26,5 @@ minikube service portainer -n portainer
 # Open a browser & hit the NodePort URL associated with https/9443
 
 ```
+
+For more documentation --> https://portainer.github.io/k8s/
